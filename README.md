@@ -1,6 +1,6 @@
 # OP-AMP
-## REG NUM :
-## NAME :
+## REG NUM :Surjini.R
+## NAME :25015534
 ## EPERRIMENT NO 5: Design a CMOS Operational Amplifier and find out the AC analysis.
 ## Aim:
 To design a CMOS Operational Amplifier and find out the AC analysis.
@@ -48,6 +48,8 @@ Net list and Run in the simulation window to start the Simulation.
 When simulation finishes, the DC, AC plots automatically will be popped up along file.
 
 ## Waveforms:
+<img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/ad189648-de75-46e7-abc9-c7ff371b9475" />
+
 
 ## RESULT:
 The Design a CMOS Operational Amplifier and find out the AC analysis is performed.
